@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/geralt.github.io/static/js/runtime~main.69ec703b.js"
   },
   {
-    "revision": "1b6586dcfa07a7b182a3",
-    "url": "/geralt.github.io/static/js/main.036a6170.chunk.js"
+    "revision": "6e2622090865525783b8",
+    "url": "/geralt.github.io/static/js/main.fbbcc655.chunk.js"
   },
   {
     "revision": "c0f7825473edaf452f5d",
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/geralt.github.io/static/js/3.df5acbb4.chunk.js"
   },
   {
-    "revision": "2f4b6786822a05a31cfb",
-    "url": "/geralt.github.io/static/js/2.05004b32.chunk.js"
+    "revision": "f21dc0c7ec7bd0417243",
+    "url": "/geralt.github.io/static/js/2.a963c641.chunk.js"
   },
   {
-    "revision": "1b6586dcfa07a7b182a3",
+    "revision": "6e2622090865525783b8",
     "url": "/geralt.github.io/static/css/main.29271325.chunk.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/geralt.github.io/static/css/4.7f21a385.chunk.css"
   },
   {
-    "revision": "63ffea5d956d229658cc054ed97b3504",
+    "revision": "2dc4cfc429755389e01bc25e13b606c7",
     "url": "/geralt.github.io/index.html"
   }
 ];
