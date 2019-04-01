@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "CMX6B3Z5SF.com.valr.mobile",
+                "paths": [ "/withdraw/verify/*"]
+            }
+        ]
+    }
+}
